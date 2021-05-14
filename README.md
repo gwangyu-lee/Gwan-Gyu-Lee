@@ -1,13 +1,13 @@
-# I am Musician, Media Artist and Programmer
-# My name is
+### I am Musician, Media Artist and Programmer
+### My name is
     var name: String = "Lee, Gwan-Gyu"    
-# I go by
+### I go by
     name = "Frederick Frednir"
-# Interest
+### Interest
 * Swift    
 * P5.js
 * Max/MSP
 * TouchDesigner
 * Cubase
 
-# Get in touch
+### Get in touch
