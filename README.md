@@ -1,4 +1,3 @@
-### I am Musician, Media Artist and Programmer
 ### My name is
     var name: String = "Lee, Gwan-Gyu"    
 ### I go by
