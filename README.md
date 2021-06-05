@@ -9,7 +9,6 @@ name = "Frederick Frednir"
 var interest: Set<String> = ["Swift",
                              "P5.js",
                              "Max/MSP",
-                             "TouchDesigner",
-                             "Cubase"]
+                             "TouchDesigner"]
 ```
   
